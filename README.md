@@ -1,2 +1,8 @@
-# horse_racing_study_1
-Study of various price sources in the UK and Ireland horse racing markets.
+# Horse Racing: Study 1
+Study 1 - Study of various price sources in the UK and Ireland horse racing markets.
+
+## Other Horse Racing repositories
+
+## License
+
+Licensed under [MIT]((https://opensource.org/license/mit/)).
